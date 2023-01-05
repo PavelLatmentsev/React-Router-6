@@ -13,10 +13,3 @@ function App() {
 }
 
 export default App;
-// {/* <BrowserRouter>
-//         <Routes>
-//           <Route index element={<MainPage />} />
-//           <Route path={"users"} element={<UsersLayouts />} />
-//           <Redirect index />
-//         </Routes>
-//       </BrowserRouter> */}
